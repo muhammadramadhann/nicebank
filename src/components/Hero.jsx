@@ -37,9 +37,9 @@ const Hero = () => {
                     Payment Method.
                 </h1>
                 <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-                    Our team of experts uses a methodology to identify the
-                    credit cards most likely to fit your needs. We examine
-                    annual percentage rates, annual fees.
+                    A smart solution for modern payment methods, storage and
+                    monitoring of annual cash flows to suit your needs. Nicebank
+                    is not just any bank. Nicebank is here as a gift to you.
                 </p>
             </div>
 
