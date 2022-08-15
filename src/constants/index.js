@@ -74,7 +74,7 @@ export const stats = [
     {
         id: "stats-1",
         title: "User Active",
-        value: "3800+",
+        value: "600K+",
     },
     {
         id: "stats-2",
